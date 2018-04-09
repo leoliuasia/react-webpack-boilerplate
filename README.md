@@ -12,10 +12,10 @@
 
 ## Run
 
-git clone 
-cd
-npm install
-npm start
+* git clone https://github.com/leoliuasia/react-webpack-boilerplate.git
+* cd react-webpack-boilerplate
+* npm install
+* npm start
 
 ## Build
 
