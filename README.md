@@ -9,3 +9,14 @@
 ## Configure .babelrc file
 
 ## Add source files
+
+## Run
+
+git clone 
+cd
+npm install
+npm start
+
+## Build
+
+npm run build
